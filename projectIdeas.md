@@ -1,11 +1,17 @@
-# Project Plan
+# Camera Vision Project Ideas
 
-Use Camera Vision for moving a slideshow
-Flash card digitalizer
-Tells you when a student has raised their hands
+- **Slideshow Controller:** Advance, reverse, or pause a presentation using hand gestures.
+- **Flashcard Digitalizer:** Detect physical flashcards and display/track them digitally.
+- **Raised Hand Detector for Classrooms:** Notify teachers when a student raises their hand (remote or in-person learning).
 
-where you can like open tabs or shut down your computer with hand movements
-or you could have like something where it takes a video of you exercising and helps you improve your form
+---
 
-1. sign langue recognition for hearing impaired people
-2.maybe a touchless UI navigation for a computer 3. make a game using the gestures
+- **Touchless Computer Control:** Use gestures to open tabs, close windows, or even shut down/restart your computer.
+- **Form Feedback for Exercise:** Capture workout video and provide real-time or post-session posture/form guidance.
+
+---
+
+## Accessibility & Interaction
+1. **Sign Language Recognition:** Detect and translate sign language gestures to text or speech for hearing people; support communication for deaf/hard-of-hearing users.
+2. **Touchless UI Navigation:** Navigate an OS or application without a mouse/keyboard using tracked hand poses.
+3. **Gesture-Controlled Game:** Build a simple game (e.g., whack-a-mole, rhythm, or reaction game) where in-air gestures trigger in-game actions.
