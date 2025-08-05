@@ -10,7 +10,7 @@
 
 ## 🎯 Features
 
-- 🤖 Real-time pose detection using YOLOv8 (`yolo11n-pose.pt`)
+- 🤖 Real-time pose detection using YOLOv11 (`yolo11n-pose.pt`)
 - ✋ Gesture-based slide control:
   - Raise **left hand** → ⏩ Next slide
   - Raise **right hand** → ⏪ Previous slide
