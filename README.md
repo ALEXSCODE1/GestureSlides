@@ -6,7 +6,7 @@
 - Michael Yang  
 - Andy Li
 
-**GestureSlides** is a Python-based computer vision project that lets you control slide presentations using hand gestures. It uses the [YOLOv8 pose estimation model](https://docs.ultralytics.com/models/pose/) to detect body keypoints from your webcam feed, allowing intuitive slide navigation by raising your hands.
+**GestureSlides** is a Python-based computer vision project that lets you control slide presentations using hand gestures. It uses the [YOLOv8 pose estimation model](https://github.com/ultralytics/ultralytics) to detect body keypoints from your webcam feed, allowing intuitive slide navigation by raising your hands.
 
 ## 🎯 Features
 
